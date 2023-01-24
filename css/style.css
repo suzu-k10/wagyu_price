@@ -37,6 +37,9 @@ p {
   .row {
     margin-bottom: 30px;
   }
+  #page-top {
+    display: none;
+  }
 }
 
 
@@ -80,3 +83,4 @@ footer {
   height: 100%;
   border-radius: 50%;
 }
+
